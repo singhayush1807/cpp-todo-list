@@ -5,6 +5,17 @@ This is a simple command-line **To-Do List Manager** built using C++.
 It allows users to manage their daily tasks with options to **add**, **view**, and **remove** tasks interactively through a console interface.
 
 ---
+## 🖼️ Demo Screenshots
+
+### 🧠 Main Menu
+![Main Menu](screenshot-main.png)
+
+### ➕ Adding and Viewing Tasks
+![Add & View](screenshot-view.png)
+
+### ❌ Removing Tasks
+![Remove Task](screenshot-remove.png)
+
 
 ## 🛠️ Features
 
